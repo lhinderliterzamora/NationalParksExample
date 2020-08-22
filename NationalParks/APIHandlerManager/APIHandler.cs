@@ -14,7 +14,7 @@ namespace NationalParks.APIHandlerManager
     // https://www.nps.gov/subjects/developer/get-started.htm
 
     static string BASE_URL = "https://developer.nps.gov/api/v1/";
-    static string API_KEY = ""; //Add your API key here inside ""
+    static string API_KEY = "LYRhQFjs3aO76K4DTuMgZ2SeFp43U6svNyZBqzHx"; //Add your API key here inside ""
 
     HttpClient httpClient;
 
